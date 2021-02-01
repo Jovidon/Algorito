@@ -15,6 +15,7 @@ Here you can find rather implementation of a bunch of algorithms, data structure
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Encapsulation.cpp" >Encapsulation</a></li>
-  <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Inheritance.cpp" >Inheritance </a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Inheritance.cpp" >Inheritance </a></li>  
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Polymorphism.cpp" >Polymorphism </a></li>  
 </ol>
 
