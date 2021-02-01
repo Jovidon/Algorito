@@ -1,5 +1,5 @@
 # Algorito
-Here you can find rather implementation of a bunch of algorithms and data structures.
+Here you can find rather implementation of a bunch of algorithms, data structures and a little bit about Object Oriented Programming.
 
 <br>
 <h1> Sorting algorithms </h1>
