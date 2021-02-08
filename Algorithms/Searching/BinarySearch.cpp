@@ -33,7 +33,7 @@ int binarySearch(int arr[], int left, int right, int key) {
 
 int main () {
 	
-	int arr[] = { 0, 13, 24, 333, 401 }; 
+    int arr[] = { 0, 13, 24, 333, 401 }; 
     int key = 333; 
     int size = sizeof(arr) / sizeof(arr[0]);
     
