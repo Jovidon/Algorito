@@ -13,6 +13,13 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Quick_Sort.cpp" >Quick sort  </a></li>
 </ol>
 <br>
+<h1> Searching algorithms </h1>
+<br>
+<ol> 
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Searching/LinearSearch.cpp" >Linear search  </a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Searching/BinarySearch.cpp" >Binary search </a></li>
+</ol>
+<br>
 <h1> Object Oriented Programming principles </h1>
 <br>
 <ol> 
