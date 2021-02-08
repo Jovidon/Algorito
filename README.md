@@ -1,6 +1,6 @@
 # Algorito
 Here you can find rather implementation of a bunch of algorithms, data structures and a little bit about Object Oriented Programming.
-
+<h3>Feel free to contribute.</h3>
 <br>
 <h1> Sorting algorithms </h1>
 <br>
