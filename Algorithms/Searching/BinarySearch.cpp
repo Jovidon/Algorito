@@ -13,17 +13,17 @@ int binarySearch(int arr[], int left, int right, int key) {
 	
     if(left <= right) {
     
-		int mid = (left + right)/2;
+	int mid = (left + right)/2;
     	
     	if(arr[mid] == key) {
     		return mid;
-		}
+	}
 		
-		if(arr[mid] > key) {
-			return binarySearch(arr, left, mid - 1, key);
-		}
+	if(arr[mid] > key) {
+		return binarySearch(arr, left, mid - 1, key);
+	}
 		
-		return binarySearch(arr, mid + 1, right, key); 
+	return binarySearch(arr, mid + 1, right, key); 
     	
 	}
 	
