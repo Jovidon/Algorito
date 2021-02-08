@@ -20,7 +20,7 @@ int linearSearch(int arr[], int size, int key) {
 
 int main () {
 	
-	int arr[] = { 0, 13, 24, 333, 401 }; 
+    int arr[] = { 0, 13, 24, 333, 401 }; 
     int key = 334; 
     int size = sizeof(arr) / sizeof(arr[0]);
     
