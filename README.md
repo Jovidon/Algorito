@@ -11,6 +11,7 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Merge_Sort.cpp" >Merge sort  </a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Heap_sort.cpp" >Heap sort  </a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Quick_Sort.cpp" >Quick sort  </a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Counting_Sort.cpp" >Counting sort </a></li>
 </ol>
 <br>
 <h1> Searching algorithms </h1>
