@@ -24,8 +24,9 @@ Here you can find rather implementation of a bunch of algorithms, data structure
 <h1> Data structures </h1>
 <br>
 <ol>
-  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Data_Structures/Stack/Stack.cpp">Stack</a></li>
-  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Data_Structures/HashMap/HashMap.java">Hash Map</a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Stack/Stack.cpp">Stack</a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/LinkedList/LinkedList.cpp">Linked List</a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/HashMap/HashMap.java">Hash Map</a></li>
 </ol>
 <br>
 <h1> Object Oriented Programming principles </h1>
