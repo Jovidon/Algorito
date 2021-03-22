@@ -28,8 +28,7 @@ class StackWithArray {
 	
 	    void pop () {
 	       if (this->top_index > 0) {
-	       		this->arr[this->top_index] = 1LL;
-	       		this->top_index--;
+	       		this->arr[this->top_index--] = 1LL;
 		   }
 	    }
 	
