@@ -75,6 +75,53 @@ class StackWithVector {
 /*****************************************************/
 
 
+/**
+* Design stack class with Linked list data structure.
+*/
+
+class Node
+{
+ public:	
+	int data;
+	Node *next;
+};
+
+class StackWithList {
+	
+	private:
+        Node *head = NULL;
+	
+	public: 
+	    void push (int item) {	 
+		  Node* temp;
+		  temp = new Node();
+		  temp->data = item;
+		  
+		  if(head == NULL) 
+	        temp->next = NULL;
+		  else 
+		  	temp->next = head;
+		  	
+		  head =  temp;		  
+	    }
+	
+	    void pop () {
+	       head->data = head->next->data;
+	       head->next = head->next->next;
+	    }
+	
+	    bool isEmpty () {
+	      return (head == NULL);
+	    }
+	
+	    int top () {
+	      return head->data;
+	    }
+};
+
+/*****************************************************/
+
+
 
 int main () {
 
@@ -96,4 +143,5 @@ int main () {
 	
 	(stack_arr.top()=='1') ? cout<<"The top of stack is 1. Test case #4 succeeded!" : "The top of stack is not 1. Test case #4 failed!";
 	
+
 }
