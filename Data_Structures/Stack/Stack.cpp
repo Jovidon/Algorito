@@ -5,6 +5,7 @@ using namespace std;
 /*
 *
 * Rather designs of Stack in C++ with our own library
+* Last In First Out
 *
 */
 
