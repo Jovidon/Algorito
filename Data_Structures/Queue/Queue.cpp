@@ -23,7 +23,7 @@ class Queue {
 		}
 	
 		void pop_front() {
-			arr[pop_index++]=NULL;
+			arr[pop_index++] = NULL;
 		}
 		
 		void top() {
@@ -32,7 +32,6 @@ class Queue {
 			  return;
 			}
 			puts("Queue is empty!");
-				
 		}
 	
 		bool isEmpty() {
