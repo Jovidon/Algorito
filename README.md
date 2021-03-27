@@ -25,7 +25,8 @@ Here you can find rather implementation of a bunch of algorithms, data structure
 <br>
 <ol>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Stack/Stack.cpp">Stack</a></li>
-    <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Queue/Queue.cpp">Queue</a></li>
+   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Queue/Queue.cpp">Queue</a></li>  
+   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Deque/Deque.cpp">Deque</a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/LinkedList/LinkedList.cpp">Linked List</a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/HashMap/HashMap.java">Hash Map</a></li>
 </ol>
@@ -37,4 +38,7 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Inheritance.cpp" >Inheritance </a></li>  
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Polymorphism.cpp" >Polymorphism </a></li>  
 </ol>
+
+
+
 
