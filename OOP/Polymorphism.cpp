@@ -52,7 +52,7 @@ class Circle : public Shape {
 			radius = _radius;
 		}
 		
-		// Here Polymorphism comes true :) 
+		
 		getArea(){
 			return M_PI*radius*radius;
 		};
@@ -79,7 +79,7 @@ class Rectangle : public Shape {
 			return width;
 		}
 		
-		// Here Polymorphism comes true :) 
+		
 		getArea() {
 			return height*width;
 		}
