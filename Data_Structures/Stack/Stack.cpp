@@ -99,9 +99,9 @@ class StackWithList {
 		  temp->data = item;
 		  
 		  if(head == NULL) 
-	        temp->next = NULL;
+	             temp->next = NULL;
 		  else 
-		  	temp->next = head;
+		     temp->next = head;
 		  	
 		  head =  temp;		  
 	    }

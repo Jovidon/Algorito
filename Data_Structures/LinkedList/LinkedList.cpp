@@ -17,7 +17,7 @@ class LinkedList {
 	private:
     	Node* head;
 	public:
-	    void addNode(int val){
+    	    void addNode(int val){
 		    Node* newnode = new Node();
 		    newnode->data = val;
 		    newnode->next = NULL;
@@ -32,7 +32,7 @@ class LinkedList {
 		        temp->next = newnode;
 		    }
 		};
-	    void reverseList(){
+    	    void reverseList(){
 		    Node* temp = head;
 		    Node* nextnode = NULL;
 		    Node* revnode = NULL;
@@ -44,7 +44,7 @@ class LinkedList {
 		        temp = nextnode;
 		    }
 		};
-    	void display(){
+    	    void display(){
 		    if (head == NULL) {
 		        cout << "List is empty!" << endl;
 		    }
