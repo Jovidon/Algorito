@@ -4,8 +4,8 @@ using namespace std;
 
 /**
 *
-* Design of Deque data structure with our own library
-*
+*   Design of Deque data structure with our own library
+*   Double-ended queue
 */
 
 
