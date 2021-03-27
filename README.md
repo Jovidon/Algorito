@@ -2,7 +2,7 @@
 Here you can find rather implementation of a bunch of algorithms, data structures and a little bit about Object Oriented Programming.
 <h3>Feel free to contribute.</h3>
 <br>
-<h1> Sorting algorithms </h1>
+<h2> Sorting algorithms </h2>
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Bubble_Sort.cpp" >Bubble sort  </a></li>
@@ -14,14 +14,14 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Sorting/Counting_Sort.cpp" >Counting sort </a></li>
 </ol>
 <br>
-<h1> Searching algorithms </h1>
+<h2> Searching algorithms </h2>
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Searching/LinearSearch.cpp" >Linear search  </a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Algorithms/Searching/BinarySearch.cpp" >Binary search </a></li>
 </ol>
 <br>
-<h1> Data structures </h1>
+<h2> Data structures </h2>
 <br>
 <ol>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Stack/Stack.cpp">Stack</a></li>
@@ -31,7 +31,7 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/HashMap/HashMap.java">Hash Map</a></li>
 </ol>
 <br>
-<h1> Object Oriented Programming principles </h1>
+<h2> Object Oriented Programming principles </h2>
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Encapsulation.cpp" >Encapsulation</a></li>
