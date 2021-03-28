@@ -40,8 +40,6 @@ Here you can find rather implementation of a bunch of algorithms, data structure
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/OOP/Polymorphism.cpp" >Polymorphism </a></li>  
 </ol>
 
-<div>https://github.com/Jovidon/Algorito/contributors_list?count=3&current_repository=Algorito&items_to_show=3</div>
-
 
 
 
