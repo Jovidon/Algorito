@@ -29,6 +29,7 @@ Here you can find rather implementation of a bunch of algorithms, data structure
    <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Deque/Deque.cpp">Deque (Double-ended queue)</a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/LinkedList/LinkedList.cpp">Linked List</a></li>
   <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/HashMap/HashMap.java">Hash Map</a></li>
+  <li><a href="https://github.com/Jovidon/Algorito/blob/main/Data_Structures/Heap/Heap.cpp">Heap</a></li>
 </ol>
 <br>
 <h2> Object Oriented Programming principles </h2>
