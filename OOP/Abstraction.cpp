@@ -13,7 +13,7 @@ using namespace std;
 /**
 *	 Abstaction can be thought as extention to Encapsulation.
 *	 
-*        Diff:
+*        Difference between Abstraction and Encapsulation:
 *	     Abstraction solves the problem in design level.
 *	     Encapsulation solves the problem in implemention level.
 */
