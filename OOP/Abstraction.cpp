@@ -5,7 +5,7 @@ using namespace std;
 
 /**
 *	 OOP Concept - Abstraction
-*    Abstraction in C++ with Coffee Machine working process illustration.
+*        Abstraction in C++ with Coffee Machine working process illustration.
 *	 Applying abstraction means that each object should only expose a high-level mechanism for using it.
 */
 
@@ -13,9 +13,9 @@ using namespace std;
 /**
 *	 Abstaction can be thought as extention to Encapsulation.
 *	 
-*    Diff:
-*	 Abstraction solves the problem in design level.
-*	 Encapsulation solves the problem in implemention level.
+*        Diff:
+*	     Abstraction solves the problem in design level.
+*	     Encapsulation solves the problem in implemention level.
 */
 
 
