@@ -15,7 +15,7 @@ using namespace std;
 *	 
 *        Difference between Abstraction and Encapsulation:
 *	     Abstraction solves the problem in design level.
-*	     Encapsulation solves the problem in implemention level.
+*	     Encapsulation solves the problem in implementation level.
 */
 
 
