@@ -10,7 +10,7 @@ using namespace std;
 */
 
 /**
-* Design stack class with Array data structure.
+* Design of stack class with Array data structure.
 */
 
 const int MAX_SIZE = 1e5;
@@ -45,7 +45,7 @@ class StackWithArray {
 /*****************************************************/
 
 /**
-* Design stack class with Vector data structure.
+* Design of stack class with Vector data structure.
 */
 
 template <typename T>
@@ -77,7 +77,7 @@ class StackWithVector {
 
 
 /**
-* Design stack class with Linked list data structure.
+* Design of stack class with Linked list data structure.
 */
 
 class Node
